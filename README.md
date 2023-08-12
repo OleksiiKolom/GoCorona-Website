@@ -1,5 +1,5 @@
 <h2 align="center">
-  Цей проєкт було розроблено за допомогою ютуб-каналу "Фрілансер по життю".
+  GoCorona Website
 </h2>
 <hr>
 <p align="center">
